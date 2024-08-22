@@ -6,7 +6,7 @@ plugins {
 
 group = 'me.heongyukim'
 version = '1.0-SNAPSHOT'
-sourceCompatibility = '21'
+sourceCompatibility = '17'
 
 repositories {
     mavenCentral()
